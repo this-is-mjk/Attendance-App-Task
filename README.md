@@ -1,14 +1,8 @@
-sorry but react code is a bit messy, and not comment out properly, i didn't had much left before the deadline
-
 ### IITK Attendence App
 
 React-based web application for managing student attendance. It includes features for logging in, marking attendance, adding students, and retrieving attendance records, all features using a face-recognition by python with flask backend
 
-Refer Demo:- https://drive.google.com/file/d/1dHEqofvBiVSwp0DsM_fATmrwoBwefYhS/view?usp=sharing for how to use
-
-frontend:-https://github.com/this-is-mjk/Attendance-App.git
-
-backend:- https://github.com/this-is-mjk/Attendance-app-backend.git
+[![Watch the video](https://youtu.be/NdP8Q0V74HA/0.jpg)](https://youtu.be/NdP8Q0V74HA)
 
 refer the README in the backend for better understanding the backend implementation
 

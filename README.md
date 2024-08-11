@@ -2,7 +2,7 @@
 
 React-based web application for managing student attendance. It includes features for logging in, marking attendance, adding students, and retrieving attendance records, all features using a face-recognition by python with flask backend
 
-[![Watch the video](https://youtu.be/NdP8Q0V74HA/0.png)](https://youtu.be/NdP8Q0V74HA)
+[![Watch the video](https://raw.githubusercontent.com/this-is-mjk/Attendance-App-Task/main/useDemo/thumbnail.png)](https://youtu.be/NdP8Q0V74HA)
 
 refer the README in the backend for better understanding the backend implementation
 

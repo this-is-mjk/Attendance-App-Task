@@ -1,0 +1,21 @@
+https://stackoverflow.com/questions/46168182/face-comparison-not-recognition-or-detection-using-opencv-and-keras
+face recognintio
+
+https://realpython.com/python-web-applications/
+for flask 
+
+https://towardsdatascience.com/camera-app-with-flask-and-opencv-bd147f6c0eec
+for web page taking pictures
+
+issue of cors
+https://stackoverflow.com/questions/10883211/why-does-my-http-localhost-cors-origin-not-work
+
+image storing
+https://medium.com/ensias-it/you-shouldnt-store-your-images-videos-in-a-database-6a78ffa277b2
+
+issue
+https://stackoverflow.com/questions/78131429/importerror-cannot-import-name-locallyconnected2d-from-tensorflow-keras-laye
+
+monog 
+brew services start mongodb-community@7.0
+brew services stop mongodb-community@7.0

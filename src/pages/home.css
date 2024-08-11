@@ -1,0 +1,71 @@
+*{
+    box-sizing:border-box;
+}
+body {
+  background-color: rgba(160, 192, 214, 0.8);
+}
+
+.home-image {
+  background-image: url("https://recfaces.com/wp-content/uploads/2020/11/scan1-830x553.jpg");
+  background-size:cover;
+  background-position: center;
+  min-width: 300px;
+  width: 100%;
+  height: 25%;
+  min-height: 200px; 
+
+}
+.flex {
+  margin: 2% auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  flex-direction: row;
+  width: fit-content;
+}
+.heading {
+  font-size: 2rem;
+  color: gray;
+  margin: 2% auto;
+  text-align: center;
+  font-family: serif;
+  font-style: italic;
+}
+.form {
+  display: flex;
+  flex-direction: column;
+  background-color: whitesmoke;
+  width: 400px;
+  margin:  5% auto;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid white;
+  border-radius: 10px;
+  box-shadow: 8px 8px 8px rgba(0, 0, 0, 0.5);
+  padding: 10px 0 10px;
+}
+.btn-input {
+  font-size: 1rem;
+  padding: 0.5rem;
+  margin: 5px auto;
+  width: 80%;
+  text-align: center;
+}
+.webcam {
+  border-radius: 20px;
+  max-width: 520px;
+  width: 95%;
+  min-width: 400px;
+  height: 80%;
+  box-shadow: 8px 8px 8px rgba(0, 0, 0, 0.5);
+}
+@media screen and (max-width: 800px) {
+  .flex {
+    flex-direction: column;
+  }
+  .webcam {
+    margin: 20px auto 0;
+    width: 300px;
+  }
+}
